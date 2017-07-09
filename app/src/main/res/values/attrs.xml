@@ -15,6 +15,11 @@
         <attr name="vpiUnderlinePageIndicatorStyle" format="reference"/>
     </declare-styleable>
 
+    <attr name="centered" format="boolean" />
+    <attr name="selectedColor" format="color" />
+    <attr name="strokeWidth" format="dimension" />
+    <attr name="unselectedColor" format="color" />
+
     <declare-styleable name="CirclePageIndicator">
         <!-- Whether or not the indicators should be centered. -->
         <attr name="centered" />

@@ -1,5 +1,7 @@
 package com.oab.simpleapp.utils;
 
+import com.bumptech.glide.Glide;
+
 /**
  * Created by bao on 2017/7/9.
  */
